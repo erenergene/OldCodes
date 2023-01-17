@@ -1,4 +1,4 @@
-%% output_Bulk_Effect_Data.m - Outputs Bulk_Effect_Data.mat
+% output_Bulk_Effect_Data.m - Outputs Bulk_Effect_Data.mat
 
 clearvars
 

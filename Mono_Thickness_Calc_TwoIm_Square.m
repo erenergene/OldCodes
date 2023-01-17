@@ -1,4 +1,4 @@
-%% Mono_Thickness_Calc_TwoIm_Square.m - Monochrome thickness calculator using .tif files, from two images, and square ROI
+% Mono_Thickness_Calc_TwoIm_Square.m - Monochrome thickness calculator using .tif files, from two images, and square ROI
 
 clc; close all; clearvars;
 

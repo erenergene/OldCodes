@@ -1,4 +1,4 @@
-%% Multicolor_Thickness_Calculator.m - Multicolor thickness calculator using .tif files
+% Multicolor_Thickness_Calculator.m - Multicolor thickness calculator using .tif files
 
 clc; close all; clearvars;
 

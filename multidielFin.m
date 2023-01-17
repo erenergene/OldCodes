@@ -1,4 +1,4 @@
-%% multidielFin.m - Reflectance Simulations 
+% multidielFin.m - Reflectance Simulations 
 
 clearvars
 close all

@@ -1,4 +1,4 @@
-%% multidiel_OCN.m - Reflectance Simulations
+% multidiel_OCN.m - Reflectance Simulations
 
 clc
 clearvars

@@ -1,4 +1,4 @@
-%% BB_imacq4.m - Breadboard for Image Acquisition: 4
+% BB_imacq4.m - Breadboard for Image Acquisition: 4
 
 tic
 

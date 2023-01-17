@@ -1,4 +1,4 @@
-%% nPlotting.m - Refractive Index plotting for Si & SiO2
+% nPlotting.m - Refractive Index plotting for Si & SiO2
 
 clearvars 
 

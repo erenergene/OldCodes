@@ -1,4 +1,4 @@
-%% output_Osram_Data.m - Outputs Osram_Data.mat
+% output_Osram_Data.m - Outputs Osram_Data.mat
 
 clearvars
 

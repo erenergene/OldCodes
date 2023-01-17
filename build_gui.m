@@ -1,4 +1,4 @@
-%% build_gui.m - GUI build example with a damping ratio variable
+% build_gui.m - GUI build example with a damping ratio variable
 
 zeta = .5;                           % Damping Ratio
 wn = 2;                              % Natural Frequency

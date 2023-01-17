@@ -1,4 +1,4 @@
-%% n2r.m - refractive indices to reflection coefficients of M-layer structure
+% n2r.m - refractive indices to reflection coefficients of M-layer structure
 %
 % Usage: r = n2r(n)
 %

@@ -1,4 +1,4 @@
-%% fcnG.m - Image Acquisition From Directory Function Trials 
+% fcnG.m - Image Acquisition From Directory Function Trials 
 
 function [imsG] = fcnG(dirG)
 % 

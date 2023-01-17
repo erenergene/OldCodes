@@ -1,4 +1,4 @@
-%% multidiel_2.m - modified version of multidiel.m
+% multidiel_2.m - modified version of multidiel.m
 
 % multidiel.m - reflection response of isotropic or birefringent multilayer structure
 %

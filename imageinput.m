@@ -1,4 +1,4 @@
-%% imageinput.m - Get image files as .mat files -including time difference
+% imageinput.m - Get image files as .mat files -including time difference
 
 clearvars
 

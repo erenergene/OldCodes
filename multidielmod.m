@@ -1,4 +1,4 @@
-%% multidielmod.m - Modified version of multidiel.m
+% multidielmod.m - Modified version of multidiel.m
 %
 %          na | n1 | n2 | ... | nM | nb
 % left medium | L1 | L2 | ... | LM | right medium 

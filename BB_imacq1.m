@@ -1,4 +1,4 @@
-%% BB_imacq1.m - Breadboard for Image Acquisition: 1
+% BB_imacq1.m - Breadboard for Image Acquisition: 1
 
 %% START
 % tic

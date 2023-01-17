@@ -1,4 +1,4 @@
-%% OsramRefSim.m - Reflectance Calculations using OSRAM LEDs 
+% OsramRefSim.m - Reflectance Calculations using OSRAM LEDs 
 
 tic
 clc; clearvars; close all;

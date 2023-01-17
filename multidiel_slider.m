@@ -1,4 +1,4 @@
-%% multidiel_slider.m - GUI slider attempts in reflectance simulations
+% multidiel_slider.m - GUI slider attempts in reflectance simulations
 
 % L vs reflectance ciz
 % Lambda slider koy

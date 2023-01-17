@@ -1,4 +1,4 @@
-%% multidiel_2_refindexplot.m - modified version of multidiel.m with refractive index plot
+% multidiel_2_refindexplot.m - modified version of multidiel.m with refractive index plot
 
 
 % multidiel.m - reflection response of isotropic or birefringent multilayer structure

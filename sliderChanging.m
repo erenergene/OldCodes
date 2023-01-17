@@ -1,4 +1,4 @@
-% GUI Slider Thickness Function
+% sliderChanging.m - GUI Slider Thickness Function
 
 function sliderChanging
 % Create figure window and components

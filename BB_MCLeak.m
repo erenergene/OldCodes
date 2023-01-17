@@ -1,4 +1,4 @@
-%% BB_MCLeak.m - Breadboard for multicolor leakage analysis
+% BB_MCLeak.m - Breadboard for multicolor leakage analysis
 
 clc; clear; clearvars
 

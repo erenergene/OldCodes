@@ -1,4 +1,4 @@
-%% Mono_Thickness_Calc_OneIm_Circle.m - Monochrome thickness calculator using .tif files, from one image, and circle ROI
+% Mono_Thickness_Calc_OneIm_Circle.m - Monochrome thickness calculator using .tif files, from one image, and circle ROI
 
 clc; close all; clearvars -except Gamma_Si;
 

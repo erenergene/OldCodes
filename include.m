@@ -1,4 +1,4 @@
-%% include.m - include folders in the path
+% include.m - include folders in the path
 
 % Apache V2 License - Copyright (c) 2020 Amin Yahyaabadi - aminyahyaabadi74@gmail.com
 % https://github.com/aminya/Dispatch.m

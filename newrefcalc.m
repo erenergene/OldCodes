@@ -1,4 +1,4 @@
-%% newrefcalc.m - Manual calculations of reflectance (no multidiel)
+% newrefcalc.m - Manual calculations of reflectance (no multidiel)
 
 %% clearvars
 function Ref = newrefcalc(iptlambda,iptL)

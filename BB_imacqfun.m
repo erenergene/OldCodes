@@ -1,4 +1,4 @@
-%% BB_imacqfun.m - Breadboard for function version of image acquisition
+% BB_imacqfun.m - Breadboard for function version of image acquisition
 
 % function [redmat, gremat, blumat] = BB_imacqfun(redDir, greDir, bluDir)
 function cell = BB_imacqfun(Direc)

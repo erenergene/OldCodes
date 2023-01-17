@@ -1,4 +1,4 @@
-%% Osram_LED_Analysis.m - Analysis of LEDs from OSRAM
+% Osram_LED_Analysis.m - Analysis of LEDs from OSRAM
 
 tic
    % The program section to time. 

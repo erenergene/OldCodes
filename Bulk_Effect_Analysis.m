@@ -1,4 +1,4 @@
-%% Bulk_Effect_Analysis.m - Analysis of bulk effect (n = 1.33-1.34) using old refractive indices
+% Bulk_Effect_Analysis.m - Analysis of bulk effect (n = 1.33-1.34) using old refractive indices
 
 clc; clear all; close all;
 load('Imaging_Data.mat')

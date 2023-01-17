@@ -1,4 +1,4 @@
-%% output_Imaging_Data.m - Outputs Imaging_Data.mat
+% output_Imaging_Data.m - Outputs Imaging_Data.mat
 
 clc; clearvars; close all;
 

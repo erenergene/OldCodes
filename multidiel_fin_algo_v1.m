@@ -1,4 +1,4 @@
-%% multidiel_fin_algo_v1.m - Reflectance Simulations with algorithm
+% multidiel_fin_algo_v1.m - Reflectance Simulations with algorithm
 
 clc; clearvars; close all;
 

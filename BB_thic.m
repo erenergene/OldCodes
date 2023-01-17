@@ -1,4 +1,4 @@
-%% BB_thic.m - Breadboard for thickness estimation
+% BB_thic.m - Breadboard for thickness estimation
 
 RefRed = 0.12;
 RefGreen = 0.11;

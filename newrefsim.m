@@ -1,4 +1,4 @@
-%% newrefcalc.m - Manual simulations of reflectance (no multidiel)
+% newrefsim.m - Manual simulations of reflectance (no multidiel)
 
 clearvars
 load("OsramSim.mat")

@@ -1,4 +1,4 @@
-%% multidiel_fin.m - Reflectance Simulations 
+% multidiel_fin.m - Reflectance Simulations 
 
 clc 
 clearvars

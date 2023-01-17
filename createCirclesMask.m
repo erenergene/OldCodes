@@ -1,4 +1,4 @@
-%% createCirclesMask.m - Create a binary mask from circle centers and radii
+% createCirclesMask.m - Create a binary mask from circle centers and radii
 
 function mask = createCirclesMask(varargin)
 %xDim,yDim,centers,radii)

@@ -1,4 +1,4 @@
-%% Mono_Thickness_Calc_OneIm_TempAvg.m - Monochrome thickness calculator using .tif files, from one image, circle ROI, and temporal averaged
+% Mono_Thickness_Calc_OneIm_TempAvg.m - Monochrome thickness calculator using .tif files, from one image, circle ROI, and temporal averaged
 
 tic
 

@@ -1,4 +1,4 @@
-%% multidiel1mod.m - modified version of multidiel1.m
+% multidiel1mod.m - modified version of multidiel1.m
 
 clearvars
 close all

@@ -1,4 +1,4 @@
-%% bring.m - Get a list of all txt files in the current folder or subfolders of it as a tall array.
+% bring.m - Get a list of all txt files in the current folder or subfolders of it as a tall array.
 
 % function structmat = bring(direc)
 %%
